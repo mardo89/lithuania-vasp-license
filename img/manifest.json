@@ -1,0 +1,56 @@
+[
+  {
+    "filename": "gallery-01.jpg",
+    "alt": "A beautiful view of Vilnius city featuring historic architecture and a prominent church tower under a clear sky.",
+    "photographer": "Mr Alex Photography",
+    "pexels_id": 20303298
+  },
+  {
+    "filename": "gallery-02.jpg",
+    "alt": "Capture of Vilnius cityscape at sunset, featuring Gediminas Castle and vibrant evening sky.",
+    "photographer": "Gantas Vaičiulėnas",
+    "pexels_id": 7828591
+  },
+  {
+    "filename": "gallery-03.jpg",
+    "alt": "Aerial view of St. Catherine's Church amidst Vilnius cityscape on a sunny day.",
+    "photographer": "Mr Alex Photography",
+    "pexels_id": 28322469
+  },
+  {
+    "filename": "gallery-04.jpg",
+    "alt": "Stunning day view of Vilnius city skyline with the Neris River and modern architecture.",
+    "photographer": "Omar ‎",
+    "pexels_id": 34246394
+  },
+  {
+    "filename": "gallery-05.jpg",
+    "alt": "The European Union flag gracefully waving on a flagpole against a cloudy sky in Strasbourg, France.",
+    "photographer": "Dušan Cvetanović",
+    "pexels_id": 12541596
+  },
+  {
+    "filename": "gallery-06.jpg",
+    "alt": "European Union flag fluttering beneath the Cinquantenaire Arch in Brussels, Belgium.",
+    "photographer": "Petrit Nikolli",
+    "pexels_id": 22046935
+  },
+  {
+    "filename": "gallery-07.jpg",
+    "alt": "Large European Union flag draped over a building facade adorned with festive decorations.",
+    "photographer": "Renan Rezende",
+    "pexels_id": 12171275
+  },
+  {
+    "filename": "gallery-08.jpg",
+    "alt": "European Union flag waving vividly against a cloudy sky in Strasbourg, France.",
+    "photographer": "Dušan Cvetanović",
+    "pexels_id": 12541592
+  },
+  {
+    "filename": "gallery-09.jpg",
+    "alt": "A modern desk setup featuring financial analytics on digital devices in an office setting.",
+    "photographer": "Jakub Zerdzicki",
+    "pexels_id": 30214870
+  }
+]
